@@ -202,7 +202,7 @@ a:hover {
     background-size: cover;
     background-repeat: no-repeat;
     filter: grayscale(0.5);
-    color: #1E1E2A;
+    color: #5a5a58;
     cursor: pointer;
     transition: 0.5 ease-in-out;
 }
@@ -235,7 +235,7 @@ a:hover {
 }
 
 .card-wrapper h2 {
-    font-size: 40px;
+    font-size: 30px;
     text-transform: uppercase;
     letter-spacing: 4px;
     margin: 0;
